@@ -1,1 +1,16 @@
 # DataHub
+- Ancestry (FamilySearch)
+- Notes (Obsidian)
+- Music (last.fm)
+- Friends (spreadsheet, IG, Discord)
+- Language (Anki)
+- Sleep tracking
+- Location tracking (Google)
+- Spending (Mint)
+- Classes (CalCentral)
+- Browsing (Google history, YouTube)
+- Messaging (WeChat, Messages, IG)
+- Time Management (Apple Monitor, probably some Chrome extension)
+- Age (a stopwatch from birth)
+- Calendar Events (bCal)
+- Exercise (Fitbit)
